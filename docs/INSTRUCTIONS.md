@@ -1,18 +1,19 @@
 
-# [sprintnaam] - [deeltaak-naam]
+# Your Tribe - CSS Basics
 
-Beschrijving van de deeltaak
+Pas CSS Basics toe op je visistekaartje
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college S01W1-04 CSS Basics wordt behandeld hoe je CSS Selectoren en properties kan toepassen om een bestaand visitekaartje aan te passen.
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
+
 
 
 ## Werkwijze
