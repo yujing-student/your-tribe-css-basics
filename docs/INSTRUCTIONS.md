@@ -89,6 +89,6 @@ Deze opdracht is done als:
 - [ ] Je verschillende variaties op je visitekaartje hebt geschetst, de beste onderbouwd hebt gekozen en dit in de Wiki van de geforkte repository hebt gedocumenteerd
 - [ ] Je CSS properties in de stylesheet van je visitekaartje hebt aangepast en/of toegevoegd om aanpassingen aan het ontwerp te realiseren
 - [ ] Je de wijzigingen in de code hebt gepubliceerd naar GitHub  
-- [ ] Het aangepaste visitekaartje is te bekijken via GitHub pages 
+- [ ] Het aangepaste visitekaartje te bekijken is via GitHub pages 
 
 
