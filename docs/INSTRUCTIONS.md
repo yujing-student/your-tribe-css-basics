@@ -19,8 +19,6 @@ Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijk
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
-
 Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen), [bouwen](#bouwen) en [integreren](#integreren) 
 
 ### Ontwerpen
@@ -36,7 +34,6 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 - [CSS Text Effects](https://freefrontend.com/css-text-effects/)
 - [Card Stack Effects](https://tympanus.net/codrops/2015/10/28/effect-ideas-for-card-stacks/)
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
-
 
 ### Bouwen
 In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript.
@@ -60,24 +57,21 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 - [MDN selectoren](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 - [Tips & Trics using pseudo-classes](https://codeburst.io/css-tips-and-tricks-using-pseudo-class-fa83248bb6e0)
 - [Creative button styles with pseudo](https://tympanus.net/Development/CreativeButtons/)
-- [CREATIVE LINK EFFECTS](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
+- [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 
 
 ### Integreren
-Uitleg..
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je gaat jouw aanpassing op het visitekaartje publiceren op internet! 
 
 #### Aanpak
 
-1. ...
-2. ...
+1. Commit en push jou code met de GitHub Desktop App naar online GitHub repository (dit noemen ze de 'origin'). Hiermee publiceer je jouw lokale wijzigingen naar de online GitHub server
+2. Activeer GitHub pages en copy/paste de url naar je visitekaartje demo naar de beschrijving van je repository. Daar is een speciaal veld voor een website url.
 
 #### Materiaal 
 
-- [bron]
-- [bron]
-- 
-
-
+- [Getting started with the GitHub Desktop App](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+- [Quickstart GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 ## Criteria
 
