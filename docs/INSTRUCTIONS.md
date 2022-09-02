@@ -1,7 +1,9 @@
 
 # Your Tribe - CSS Basics
 
-Pas CSS Basics toe op je visistekaartje
+![Visitekaarte](visitekaartje.jpg)
+
+Experimenteren met CSS; pas met behulp van CSS Basics wijzigingen toe op je visistekaartje
 
 ## Context
 
@@ -9,12 +11,9 @@ Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individu
 
 In het college S01W1-04 CSS Basics wordt behandeld hoe je CSS Selectoren en properties kan toepassen om een bestaand visitekaartje aan te passen.
 
-
 ## Doel van deze opdracht
 
 Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
-
-
 
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
@@ -90,5 +89,3 @@ Deze opdracht is done als:
 - [ ] Je CSS properties in de stylesheet van je visitekaartje hebt aangepast en/of toegevoegd om aanpassingen aan het ontwerp te realiseren
 - [ ] Je de wijzigingen in de code hebt gepubliceerd naar GitHub  
 - [ ] Het aangepaste visitekaartje te bekijken is via GitHub pages 
-
-
