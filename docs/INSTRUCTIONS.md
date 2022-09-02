@@ -26,14 +26,16 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 
 #### Aanpak
 
-1. Schets een aantal variaties van jou visitekaartje
+1. Schets een aantal variaties van jou visitekaartje, plaatst screenshots / foto's van de schetsen in de wiki van je repository
 2. Kies de schets die jij het beste vindt
+3. Onderbouw jouw keuze in de wiki van de repository
 
 #### Materiaal 
 
 - [CSS Text Effects](https://freefrontend.com/css-text-effects/)
 - [Card Stack Effects](https://tympanus.net/codrops/2015/10/28/effect-ideas-for-card-stacks/)
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
+- [About GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) 
 
 ### Bouwen
 In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript.
@@ -43,7 +45,7 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 1. Fork deze repository en clone de code naar je computer met de Github-desktop app
 2. Open de geforkte repository folder in je code editor naar voorkeur (tip: momenteel gebruiken de meeste docenten [Visual Studio Code](https://code.visualstudio.com/))
 3. Bekijk onderstaande bronnen en zoek uit welke CSS properties je nodig hebt om jou schets uit te kunnen werken
-4. Pas deze CSS properties aan of voeg ze toe aan de CSS stylesheetWerk
+4. Pas deze CSS properties aan of voeg ze toe aan de CSS stylesheet
 5. Varieer in de CSS selectoren die je gebruikt (probeer CSS classes te voorkomen)
 
 #### Materiaal 
@@ -75,14 +77,18 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
+Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
 
-Deze deeltaak hoort bij het gedragscriterium:  
-...
+Deze deeltaak hoort bij de gedragscriteria:
+
+- Je volgt binnen projecten de aangeboden fasering van de development-lifecycle.
+- Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Je verschillende variaties op je visitekaartje hebt geschetst, de beste onderbouwd hebt gekozen en dit in de Wiki van de geforkte repository hebt gedocumenteerd
+- [ ] Je CSS properties in de stylesheet van je visitekaartje hebt aangepast en/of toegevoegd om aanpassingen aan het ontwerp te realiseren
+- [ ] Je de wijzigingen in de code hebt gepubliceerd naar GitHub  
+- [ ] Het aangepaste visitekaartje is te bekijken via GitHub pages 
+
 
