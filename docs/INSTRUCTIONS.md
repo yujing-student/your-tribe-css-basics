@@ -66,7 +66,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 
 #### Aanpak
 
-1. Commit en push jou code met de GitHub Desktop App.
+Commit en push jou code met de GitHub Desktop App.
 
 #### Materiaal 
 
@@ -77,14 +77,11 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 
 Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
 
-Deze deeltaak hoort bij de gedragscriteria:
+Deze deeltaak hoort bij het gedragscriterium:
 
-- Je volgt binnen projecten de aangeboden fasering van de development-lifecycle.
 - Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
-- [ ] Je verschillende variaties op je visitekaartje hebt geschetst, de beste onderbouwd hebt gekozen en dit in de Wiki van de geforkte repository hebt gedocumenteerd
-- [ ] Je CSS properties in de stylesheet van je visitekaartje hebt aangepast en/of toegevoegd om aanpassingen aan het ontwerp te realiseren
-- [ ] Je de wijzigingen in de code hebt gepubliceerd naar GitHub  
-- [ ] Het aangepaste visitekaartje te bekijken is via GitHub pages 
+- [ ] je in de wiki van van jouw geforkte repository een breakdown schets met CSS pseudeo-code hebt opgenomen in de Wiki
+- [ ] e in de wiki van van jouw geforkte repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
