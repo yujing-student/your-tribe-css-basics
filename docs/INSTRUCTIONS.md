@@ -27,7 +27,7 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 #### Aanpak
 
 1. Maak een nieuwe schets van je visitekaartje met een aantal css erin die je vandaag hebt gezien (typo, shadow, round corners, blend modes, .. )
-2. Maak een breakdown schets en schrijf op hoe je de vormegving met css kan maken
+2. Maak een [breakdownschets voorbeeld](breakdownschets.pdf)  en schrijf op hoe je de vormegving met css kan maken
 
 #### Materiaal 
 
