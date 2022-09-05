@@ -36,7 +36,7 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 - [About GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/
 about-wikis)
-- [Breakdownschets voorbeeld]() 
+- [Breakdownschets voorbeeld](breakdownschets.pdf) 
 
 ### Bouwen
 In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript. Doe dit aan de hand van de breakdownschets.
