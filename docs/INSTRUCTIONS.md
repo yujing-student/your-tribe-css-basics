@@ -5,9 +5,6 @@
 
 Experimenteren met CSS; pas met behulp van CSS Basics wijzigingen toe op je visistekaartje
 
-
-
-
 ## Context
 
 Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
@@ -19,7 +16,8 @@ In het college S01W1-04 CSS Basics wordt behandeld hoe je CSS Selectoren en prop
 Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
 
 ## Werkwijze
-<img width="1544" alt="image" src="https://user-images.githubusercontent.com/1061632/188437424-9323e484-5964-4e5b-98ec-2858f0e1ce18.png">
+<img width="1574" alt="image" src="https://user-images.githubusercontent.com/1061632/188453519-60f72e7d-5364-4fe5-af7e-f7ae1db338e6.png">
+
 
 Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen), [bouwen](#bouwen) en [integreren](#integreren) 
 
