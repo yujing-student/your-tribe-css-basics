@@ -25,27 +25,26 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 
 #### Aanpak
 
-1. Schets een aantal variaties van jou visitekaartje, plaatst screenshots / foto's van de schetsen in de wiki van je repository
-2. Kies de schets die jij het beste vindt
-3. Onderbouw jouw keuze in de wiki van de repository
+1. Maak een nieuwe schets van je visitekaartje met een aantal css erin die je vandaag hebt gezien (typo, shadow, round corners, blend modes, .. )
+2. Maak een breakdown schets en schrijf op hoe je de vormegving met css kan maken
 
 #### Materiaal 
 
 - [CSS Text Effects](https://freefrontend.com/css-text-effects/)
 - [Card Stack Effects](https://tympanus.net/codrops/2015/10/28/effect-ideas-for-card-stacks/)
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
-- [About GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) 
+- [About GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/
+about-wikis)
+- [Breakdownschets voorbeeld]() 
 
 ### Bouwen
-In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript.
+In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript. Doe dit aan de hand van de breakdownschets.
 
 #### Aanpak
-
-1. Fork deze repository en clone de code naar je computer met de Github-desktop app
-2. Open de geforkte repository folder in je code editor naar voorkeur (tip: momenteel gebruiken de meeste docenten [Visual Studio Code](https://code.visualstudio.com/))
-3. Bekijk onderstaande bronnen en zoek uit welke CSS properties je nodig hebt om jou schets uit te kunnen werken
-4. Pas deze CSS properties aan of voeg ze toe aan de CSS stylesheet
-5. Varieer in de CSS selectoren die je gebruikt (probeer CSS classes te voorkomen)
+1. Open de geforkte repository folder in je code editor naar voorkeur (tip: momenteel gebruiken de meeste docenten [Visual Studio Code](https://code.visualstudio.com/))
+2. Bekijk onderstaande bronnen en zoek uit welke CSS properties je nodig hebt om jou schets uit te kunnen werken
+3. Pas deze CSS properties aan of voeg ze toe aan de CSS stylesheet
+4. Varieer in de CSS selectoren die je gebruikt (probeer CSS classes te voorkomen)
 
 #### Materiaal 
 
@@ -66,8 +65,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 
 #### Aanpak
 
-1. Commit en push jou code met de GitHub Desktop App naar online GitHub repository (dit noemen ze de 'origin'). Hiermee publiceer je jouw lokale wijzigingen naar de online GitHub server
-2. Activeer GitHub pages en copy/paste de url naar je visitekaartje demo naar de beschrijving van je repository. Daar is een speciaal veld voor een website url.
+1. Commit en push jou code met de GitHub Desktop App.
 
 #### Materiaal 
 
