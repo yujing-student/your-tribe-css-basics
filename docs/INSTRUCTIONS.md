@@ -84,4 +84,4 @@ Deze deeltaak hoort bij het gedragscriterium:
 Deze opdracht is done als:
 
 - [ ] je in de wiki van van jouw geforkte repository een breakdown schets met CSS pseudeo-code hebt opgenomen in de Wiki
-- [ ] e in de wiki van van jouw geforkte repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
+- [ ] je in de wiki van van jouw geforkte repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
