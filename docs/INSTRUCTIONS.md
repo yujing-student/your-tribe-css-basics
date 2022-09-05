@@ -18,6 +18,10 @@ Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijk
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
 
+
+<img width="1712" alt="image" src="https://user-images.githubusercontent.com/1061632/188437263-6c031669-086d-44e4-b636-6c2549f6b232.png">
+
+
 Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen), [bouwen](#bouwen) en [integreren](#integreren) 
 
 ### Ontwerpen
