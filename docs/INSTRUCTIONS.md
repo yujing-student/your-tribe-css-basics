@@ -19,7 +19,7 @@ Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijk
 <img width="1574" alt="image" src="https://user-images.githubusercontent.com/1061632/188453519-60f72e7d-5364-4fe5-af7e-f7ae1db338e6.png">
 
 
-Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen), [bouwen](#bouwen) en [integreren](#integreren) 
+Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen) en [bouwen](#bouwen)
 
 ### Ontwerpen
 In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien van wat mogelijk is met CSS. Ontwerp en maak een nieuwe versie van je visitekaartje en probeer hierbij, net als bij de voorbeelden is gedaan, out-of-the-box te denken. 
@@ -60,18 +60,6 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 - [Creative button styles with pseudo](https://tympanus.net/Development/CreativeButtons/)
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 
-
-### Integreren
-In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je gaat jouw aanpassing op het visitekaartje publiceren op internet! 
-
-#### Aanpak
-
-Commit en push jou code met de GitHub Desktop App.
-
-#### Materiaal 
-
-- [Getting started with the GitHub Desktop App](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-- [Quickstart GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 ## Criteria
 
