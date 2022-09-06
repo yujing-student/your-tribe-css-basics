@@ -42,7 +42,7 @@ about-wikis)
 In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS en eventueel JavaScript. Doe dit aan de hand van de breakdownschets.
 
 #### Aanpak
-1. Open de geforkte repository folder in je code editor naar voorkeur (tip: momenteel gebruiken de meeste docenten [Visual Studio Code](https://code.visualstudio.com/))
+1. Open de code van je visitekaartje in je code editor
 2. Bekijk onderstaande bronnen en zoek uit welke CSS properties je nodig hebt om jou schets uit te kunnen werken
 3. Pas deze CSS properties aan of voeg ze toe aan de CSS stylesheet
 4. Varieer in de CSS selectoren die je gebruikt (probeer CSS classes te voorkomen)
@@ -71,5 +71,5 @@ Deze deeltaak hoort bij het gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] je in de wiki van van jouw geforkte repository een breakdown schets met CSS pseudeo-code hebt opgenomen in de Wiki
-- [ ] je in de wiki van van jouw geforkte repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
+- [ ] je in de wiki van je visistekaartje repository een breakdown schets met CSS pseudeo-code hebt opgenomen in de Wiki
+- [ ] je in de wiki van van je visistekaartje repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
