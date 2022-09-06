@@ -13,7 +13,7 @@ In het college S01W1-04 CSS Basics wordt behandeld hoe je CSS Selectoren en prop
 
 ## Doel van deze opdracht
 
-Je leert hoe je experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
+Je leert hoe je kan experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
 
 ## Werkwijze
 <img width="1574" alt="image" src="https://user-images.githubusercontent.com/1061632/188453519-60f72e7d-5364-4fe5-af7e-f7ae1db338e6.png">
