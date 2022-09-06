@@ -71,5 +71,5 @@ Deze deeltaak hoort bij het gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] je in de wiki van je visistekaartje repository een breakdown schets met CSS pseudeo-code hebt opgenomen in de Wiki
+- [ ] je in de wiki van je visistekaartje repository een breakdown schets met CSS pseudeo-code hebt opgenomen
 - [ ] je in de wiki van van je visistekaartje repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
