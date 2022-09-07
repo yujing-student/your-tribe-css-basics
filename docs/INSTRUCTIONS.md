@@ -27,7 +27,7 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 #### Aanpak
 
 1. Maak een nieuwe schets van je visitekaartje met een aantal css properties erin die je vandaag hebt gezien (typo, transition, transform, position, pseude-element .. )
-2. Maak een [breakdownschets voorbeeld](breakdownschets.pdf)  en schrijf op hoe je de vormegving met css kan maken
+2. Maak een [breakdownschets voorbeeld](breakdownschets.pdf)  en schrijf op hoe je de vormgeving met css kan maken
 
 #### Materiaal 
 
