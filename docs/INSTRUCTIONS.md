@@ -7,7 +7,7 @@ Experimenteren met CSS; pas met behulp van CSS Basics wijzigingen toe op je visi
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individueel uitvoert.
 
 In het college S01W1-04 CSS Basics wordt behandeld hoe je CSS Selectoren en properties kan toepassen om een bestaand visitekaartje aan te passen.
 
@@ -18,8 +18,7 @@ Je leert hoe je kan experimenteren met (nieuwe) CSS features en daarmee (on)moge
 ## Werkwijze
 <img width="1574" alt="image" src="https://user-images.githubusercontent.com/1061632/188453519-60f72e7d-5364-4fe5-af7e-f7ae1db338e6.png">
 
-
-Deze opdracht gaat over deze fases van de DLC: [ontwerpen](#ontwerpen) en [bouwen](#bouwen)
+Deze deeltaak gaat over deze fases van de DLC: [ontwerpen](#ontwerpen) en [bouwen](#bouwen)
 
 ### Ontwerpen
 In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien van wat mogelijk is met CSS. Ontwerp en maak een nieuwe versie van je visitekaartje en probeer hierbij, net als bij de voorbeelden is gedaan, out-of-the-box te denken. 
