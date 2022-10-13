@@ -2,6 +2,8 @@
 
 # CSS Basic
 
+Pas de basics van CSS toe op jou visitekaartje.
+
 
 ## Licentie
 
