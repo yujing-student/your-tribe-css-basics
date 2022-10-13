@@ -3,7 +3,7 @@
 
 ![Visitekaarte](visitekaartje.jpg)
 
-Experimenteren met CSS; pas met behulp van CSS Basics wijzigingen toe op je visistekaartje
+Pas de basics van CSS toe op jou visitekaartje.
 
 ## Context
 
