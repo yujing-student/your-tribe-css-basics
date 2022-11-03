@@ -12,7 +12,7 @@ Deze deeltaak hoort bij sprint 1 Your Tribe. Dit is een deeltaak die je individu
 In het college S01W1-04-CSS-Basics wordt behandeld hoe je CSS Selectoren en properties kan toepassen om een bestaand visitekaartje aan te passen.
 
 Deze deeltaak hoor bij de leertaak:
-- [Your Tribe Profile Card](https://github.com/fdnd-task/your-tribe-profile-card)
+- [Your Tribe - Profile Card](https://github.com/fdnd-task/your-tribe-profile-card)
 
 ## Doel van deze opdracht
 
