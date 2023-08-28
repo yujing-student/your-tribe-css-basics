@@ -63,13 +63,9 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 
 
-## Criteria
+## Definition of Done
 
 Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
-Deze deeltaak hoort bij het gedragscriterium:
-
-- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
