@@ -65,8 +65,6 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 
 ## Definition of Done
 
-Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
 Deze opdracht is done als:
 
 - [ ] je in de wiki van je visistekaartje repository een breakdown schets met CSS pseudo-code hebt opgenomen
