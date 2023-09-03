@@ -67,5 +67,5 @@ In de bouwfase werk je jouw gekozen schets, zo goed mogelijk, uit in HTML, CSS e
 
 Deze opdracht is done als:
 
-- [ ] je in de wiki van je visistekaartje repository een breakdown schets met CSS pseudo-code hebt opgenomen
-- [ ] je in de wiki van van je visistekaartje repository minimaal 2 CSS selectoren en 2 CSS properties hebt uitgelegd
+- [ ] je hebt in de wiki van je visistekaartje repository een breakdown schets opgenomen
+- [ ] je hebt in de code van van je visistekaartje repository meerdere CSS selectoren en properties toegepast en uitgelegd
