@@ -36,8 +36,6 @@ In de workshop *CSS Basics* heb je een aantal inspirerende voorbeelden gezien va
 - [CSS Text Effects](https://freefrontend.com/css-text-effects/)
 - [Card Stack Effects](https://tympanus.net/codrops/2015/10/28/effect-ideas-for-card-stacks/)
 - [Creative Link Effects](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
-- [About GitHub Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/
-about-wikis)
 - [Breakdownschets voorbeeld](breakdownschets.pdf) 
 
 ### Bouwen
