@@ -19,7 +19,7 @@ Deze deeltaak hoort bij de leertaak:
 Je leert hoe je kan experimenteren met (nieuwe) CSS features en daarmee (on)mogelijkheden van CSS beter kennen.
 
 ## Werkwijze
-<img width="1455" alt="image" src="https://github.com/fdnd-task/your-tribe-css-basics/assets/1061632/6c1d9585-bcd8-4439-b71b-b661d8e34cfb">
+<img width="1449" alt="image" src="https://github.com/fdnd-task/your-tribe-css-basics/assets/1061632/0d31f7fa-6568-4ac5-957b-6e7dcc6531ca">
 
 Deze deeltaak gaat over deze fases van de DLC: [ontwerpen](#ontwerpen) en [bouwen](#bouwen)
 
