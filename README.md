@@ -2,7 +2,9 @@
 
 # CSS Basics
 
-Pas de basics van CSS toe op jouw visitekaartje.
+zie de link naar de breakdown schets https://github.com/yujing-student/your-tribe-profile-card/wiki/breakdown-schetsen
+zie de link naar css code met uitleg :https://github.com/yujing-student/your-tribe-profile-card/blob/868b0f80e95d0099992aaff6e91395dc173913d7/styles/style.css#L106-L122
+zie de link naar het eindresultaat https://yujing-student.github.io/your-tribe-profile-card/
 
 ## Licentie
 
